@@ -13,6 +13,8 @@ None
 
 This tutorial is about learning Django web app development.
 
+- Django Framework 3.0
+
 ---
 
 ## Materials
