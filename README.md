@@ -16,7 +16,6 @@ This tutorial is about learning Django web app development.
 ## Software
 
 - Django 3
-- Python 3.9
 
 ---
 
