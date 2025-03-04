@@ -11,7 +11,7 @@ None
 
 ## Description & Goals
 
-This tutorial is about learning web app development with Django 3 framework and Python programming language.
+This tutorial is about learning web app development with Django 3 web framework and Python 3 programming language.
 
 ---
 
