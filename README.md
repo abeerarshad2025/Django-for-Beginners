@@ -11,11 +11,7 @@ None
 
 ## Description & Goals
 
-This tutorial is about learning Django web app development.
-
-## Software
-
-- Django 3
+This tutorial is about learning Django 3 web app development.
 
 ---
 
